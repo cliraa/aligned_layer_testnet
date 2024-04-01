@@ -10,13 +10,15 @@ By introducing modularity to the blockchain, it enables the splitting up of its 
 
 The difference can be appreciated here:
 
-[![different-approaches](./images/different-approaches.jpg)](https://alignedlayer.com/)
+<div style="max-width: fit-content; margin-left: auto; margin-right: auto;">
+  <a href="https://alignedlayer.com/bridge"><img alt="different-approaches" src="./images/different-approaches.jpg" width=600></a>
 
 In our case, with Aligned Layer in the game, we are solving a simple problem: ZK verification. The EVM wasn't designed for that. So, we are creating another layer dedicated exclusively to verifying any proving system working outside the EVM, using the Ethereum consensus mechanism for security.
 
 The entire modular Ethereum scheme will be as follows:
 
-[![the-modularization-of-ethereum](./images/the-modularization-of-ethereum.jpg)](https://alignedlayer.com/)
+<div style="max-width: fit-content; margin-left: auto; margin-right: auto;">
+  <a href="https://alignedlayer.com/bridge"><img alt="the-modularization-of-ethereum" src="./images/the-modularization-of-ethereum.jpg" width=600></a>
 
 ## Interaction with other blockchains.
 
@@ -24,8 +26,8 @@ Aligned Layer could have more applications outside of Ethereum and help other bl
 
 It is proposed that the future scheme work as follows:
 
-[![future-modular](./images/future-modular.jpg)](https://alignedlayer.com/)
-
+<div style="max-width: fit-content; margin-left: auto; margin-right: auto;">
+  <a href="https://alignedlayer.com/bridge"><img alt="future-modular" src="./images/future-modular.jpg" width=600></a>
 
 As can be seen, at level 0 are Bitcoin, Ethereum, and DA Layers, Aligned Layer would be at level 1 as a verification layer, and at level 2 the other layers, such as: AppChains, zkMLs, zkEVM Rollups, etc.
 
