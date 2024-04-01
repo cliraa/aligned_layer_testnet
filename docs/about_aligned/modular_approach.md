@@ -16,7 +16,7 @@ In our case, with Aligned Layer in the game, we are solving a simple problem: ZK
 
 The entire modular Ethereum scheme will be as follows:
 
-[![different-approaches](./images/the-modularization-of-ethereum.jpg)](https://alignedlayer.com/)
+[![the-modularization-of-ethereum](./images/the-modularization-of-ethereum.jpg)](https://alignedlayer.com/)
 
 ## Interaction with other blockchains.
 
@@ -24,7 +24,7 @@ Aligned Layer could have more applications outside of Ethereum and help other bl
 
 It is proposed that the future scheme work as follows:
 
-[![different-approaches](./images/future-modular.jpg)](https://alignedlayer.com/)
+[![future-modular](./images/future-modular.jpg)](https://alignedlayer.com/)
 
 
 As can be seen, at level 0 are Bitcoin, Ethereum, and DA Layers, Aligned Layer would be at level 1 as a verification layer, and at level 2 the other layers, such as: AppChains, zkMLs, zkEVM Rollups, etc.
