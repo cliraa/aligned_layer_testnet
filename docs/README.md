@@ -1,5 +1,7 @@
 # Aligned Layer
 
+![aligned-layer](../images/aligned-layer.jpg)
+
 Aligned Layer is a verification and aggregation layer built on top of EigenLayer. It allows for cost-effective verification of any SNARK proof by leveraging the security of Ethereum validators, without the limitations of the Ethereum network.
  
 The issue we face is that Ethereum was not originally designed for validity proofs. Integrating new primitives into Ethereum for evolving proving systems is a slow and challenging process, which is what we aim to solve, working outside the EVM.
