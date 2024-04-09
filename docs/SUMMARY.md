@@ -15,4 +15,4 @@
 
 * [Telegram Group](https://t.me/aligned_layer)
 * [Twitter/X](https://twitter.com/alignedlayer)
-* [Discord](https://discord.gg/dZCAeavY)
+* [Discord](https://discord.gg/WrgR6YsS)
